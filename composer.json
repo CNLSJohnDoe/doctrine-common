@@ -17,6 +17,12 @@
         {"name": "Johannes Schmitt", "email": "schmittjoh@gmail.com"},
         {"name": "Marco Pivetta", "email": "ocramius@gmail.com"}
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/CNLSJohnDoe/annotations.git"
+        }
+    ],
     "require": {
         "php": "^7.1 || ^8.0",
         "doctrine/inflector": "^1.0",
