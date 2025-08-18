@@ -1,7 +1,7 @@
 <?php
 namespace Doctrine\Common\Util;
 
-use Doctrine\Common\Inflector\Inflector as BaseInflector;
+use Doctrine\Inflector\Inflector as BaseInflector;
 use function trigger_error;
 use const E_USER_DEPRECATED;
 
